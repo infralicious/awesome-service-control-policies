@@ -1,15 +1,27 @@
 # awesome-service-control-policies
 Awesome AWS service control policies (SCPs)
 
+Inspired by many other awesome lists!
+
 ## terraform modules
 
-- https://github.com/cloudposse/terraform-aws-service-control-policies
-- https://github.com/ScaleSec/terraform_aws_scp
-- https://github.com/trussworks/terraform-aws-ou-scp
-- https://github.com/aws-samples/aws-scps-with-terraform
+- [ScaleSec/terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp)
+- [aws-samples/aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
+- [trussworks/terraform-aws-ou-scp](https://github.com/trussworks/terraform-aws-ou-scp)
+- [cloudposse/terraform-aws-service-control-policies](https://github.com/cloudposse/terraform-aws-service-control-policies)
+- [Appsilon/terraform-aws-ou-scp](https://github.com/Appsilon/terraform-aws-ou-scp)
 
 ## blogs
+
+- https://towardsthecloud.com/aws-scp-service-control-policies
+- https://www.stormit.cloud/blog/aws-scp-service-control-policy
+- https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814
 
 ## websites
 
 - https://asecure.cloud/l/scp/
+
+## references
+
+- https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
+- https://registry.terraform.io/search/modules?q=scp
