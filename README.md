@@ -6,10 +6,14 @@ Inspired by many other awesome lists!
 ## terraform modules
 
 - [ScaleSec/terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp)
-- [aws-samples/aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
 - [trussworks/terraform-aws-ou-scp](https://github.com/trussworks/terraform-aws-ou-scp)
 - [cloudposse/terraform-aws-service-control-policies](https://github.com/cloudposse/terraform-aws-service-control-policies)
 - [Appsilon/terraform-aws-ou-scp](https://github.com/Appsilon/terraform-aws-ou-scp)
+- [timurgaleev/terraform-aws-organization-scp](https://github.com/timurgaleev/terraform-aws-organization-scp)
+
+## reference architecture
+
+- [aws-samples/aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
 
 ## blogs
 
@@ -24,4 +28,4 @@ Inspired by many other awesome lists!
 ## references
 
 - https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
-- https://registry.terraform.io/search/modules?q=scp
+- [Terraform registry search](https://registry.terraform.io/search/modules?q=scp)
