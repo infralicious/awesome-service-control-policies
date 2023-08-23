@@ -28,4 +28,5 @@ Inspired by many other awesome lists!
 ## references
 
 - https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
+- https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html#min-max-values
 - [Terraform registry search](https://registry.terraform.io/search/modules?q=scp)
