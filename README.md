@@ -5,11 +5,17 @@ Inspired by many other awesome lists!
 
 ## terraform modules
 
+### service control policies
+
 - [ScaleSec/terraform_aws_scp](https://github.com/ScaleSec/terraform_aws_scp)
 - [trussworks/terraform-aws-ou-scp](https://github.com/trussworks/terraform-aws-ou-scp)
 - [cloudposse/terraform-aws-service-control-policies](https://github.com/cloudposse/terraform-aws-service-control-policies)
 - [Appsilon/terraform-aws-ou-scp](https://github.com/Appsilon/terraform-aws-ou-scp)
 - [timurgaleev/terraform-aws-organization-scp](https://github.com/timurgaleev/terraform-aws-organization-scp)
+
+### IAM helpers
+
+- [phzietsman/terraform-aws-policy-packer](https://github.com/phzietsman/terraform-aws-policy-packer) - reduce size of IAM policy
 
 ## reference architecture
 
