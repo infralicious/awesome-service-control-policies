@@ -1,5 +1,5 @@
 # awesome-service-control-policies
-Awesome AWS service control policies (SCPs)
+Awesome AWS service control policies (SCPs) and organizational policies in general (service control, ai opt out, backup, tagging)
 
 Inspired by many other awesome lists!
 
@@ -17,6 +17,11 @@ Inspired by many other awesome lists!
 
 - [phzietsman/terraform-aws-policy-packer](https://github.com/phzietsman/terraform-aws-policy-packer) - reduce size of IAM policy
 
+## policy stores
+
+- [primeharbor/aws-service-control-policies](https://github.com/primeharbor/aws-service-control-policies)
+- https://asecure.cloud/l/scp/
+
 ## reference architecture
 
 - [aws-samples/aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
@@ -26,10 +31,7 @@ Inspired by many other awesome lists!
 - https://towardsthecloud.com/aws-scp-service-control-policies
 - https://www.stormit.cloud/blog/aws-scp-service-control-policy
 - https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814
-
-## websites
-
-- https://asecure.cloud/l/scp/
+- [June 17 2022 - More about AWS Service Control Policies (SCP)](https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814)
 
 ## references
 
