@@ -31,7 +31,8 @@ Inspired by many other awesome lists!
 - https://towardsthecloud.com/aws-scp-service-control-policies
 - https://www.stormit.cloud/blog/aws-scp-service-control-policy
 - https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814
-- [June 17 2022 - More about AWS Service Control Policies (SCP)](https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814)
+- [Jun 17 2022 - More about AWS Service Control Policies (SCP)](https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814)
+- [Mar 25, 2020 - AWS SCP Best Practices](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#creating-scps-without-breaking-things)
 
 ## references
 
