@@ -12,6 +12,7 @@ Inspired by many other awesome lists!
 - [cloudposse/terraform-aws-service-control-policies](https://github.com/cloudposse/terraform-aws-service-control-policies)
 - [Appsilon/terraform-aws-ou-scp](https://github.com/Appsilon/terraform-aws-ou-scp)
 - [timurgaleev/terraform-aws-organization-scp](https://github.com/timurgaleev/terraform-aws-organization-scp)
+- [welldone-cloud/aws-scps-for-sandbox-and-training-accounts](https://github.com/welldone-cloud/aws-scps-for-sandbox-and-training-accounts/)
 
 ### IAM helpers
 
