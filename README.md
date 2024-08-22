@@ -35,6 +35,12 @@ Inspired by many other awesome lists!
 - [Jun 17 2022 - More about AWS Service Control Policies (SCP)](https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814)
 - [Mar 25, 2020 - AWS SCP Best Practices](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#creating-scps-without-breaking-things)
 
+## notes
+
+- SCPs don't affect users or roles in the management account. They affect only the member accounts in your organization.
+- 5 policies maximum can be attached to root/ou/account
+- SCPs have a maximum character limit of 5120
+
 ## references
 
 - https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
