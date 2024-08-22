@@ -44,6 +44,7 @@ Inspired by many other awesome lists!
 
 ## references
 
+- [AWS Service Control Policy Examples](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples.html)
 - https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
 - https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html#min-max-values
 - [Terraform and OpenTofu registry search](https://library.tf/modules?query=scp)
