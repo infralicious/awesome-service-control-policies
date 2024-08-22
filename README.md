@@ -44,6 +44,7 @@ Inspired by many other awesome lists!
 
 ## references
 
+[List of expensive actions](https://gist.github.com/iann0036/b473bbb3097c5f4c656ed3d07b4d2222)
 - [ACM SCPs](https://docs.aws.amazon.com/acm/latest/userguide/acm-conditions.html)
 - [AWS Service Control Policy Examples](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples.html)
 - https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
