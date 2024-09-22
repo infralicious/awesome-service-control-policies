@@ -13,6 +13,7 @@ Inspired by many other awesome lists!
 - [Appsilon/terraform-aws-ou-scp](https://github.com/Appsilon/terraform-aws-ou-scp)
 - [timurgaleev/terraform-aws-organization-scp](https://github.com/timurgaleev/terraform-aws-organization-scp)
 - [welldone-cloud/aws-scps-for-sandbox-and-training-accounts](https://github.com/welldone-cloud/aws-scps-for-sandbox-and-training-accounts/)
+- https://github.com/latacora/latacora-service-control-policies/tree/master/policy-groups
 
 ### IAM helpers
 
