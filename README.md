@@ -1,4 +1,5 @@
 # awesome-service-control-policies
+
 Awesome AWS service control policies (SCPs) and organizational policies in general (service control, ai opt out, backup, tagging)
 
 Inspired by many other awesome lists!
@@ -31,15 +32,16 @@ Inspired by many other awesome lists!
 
 ## blogs
 
-- https://towardsthecloud.com/aws-scp-service-control-policies
-- https://www.stormit.cloud/blog/aws-scp-service-control-policy
-- https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814
+- [Oct 9 2023 - What is AWS SCP (Service Control Policy) and How does it Help with Permissions?](https://www.stormit.cloud/blog/aws-scp-service-control-policy)
+- [Jul 29 2023 - What are AWS Service Control Policies (SCPs)](https://towardsthecloud.com/aws-scp-service-control-policies)
 - [Jun 17 2022 - More about AWS Service Control Policies (SCP)](https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814)
-- [Mar 25, 2020 - AWS SCP Best Practices](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#creating-scps-without-breaking-things)
+- [Mar 25 2020 - AWS SCP Best Practices](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#creating-scps-without-breaking-things)
 
 ## notes
 
-- SCPs don't affect users or roles in the management account. They affect only the member accounts in your organization.
+TODO: add sources
+
+- SCPs do not affect users or roles in the management account. They affect only the member accounts in your organization.
 - 5 policies maximum can be attached to root/ou/account
 - SCPs have a maximum character limit of 5120
 
@@ -48,6 +50,6 @@ Inspired by many other awesome lists!
 - [List of expensive actions](https://gist.github.com/iann0036/b473bbb3097c5f4c656ed3d07b4d2222)
 - [ACM SCPs](https://docs.aws.amazon.com/acm/latest/userguide/acm-conditions.html)
 - [AWS Service Control Policy Examples](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples.html)
-- https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
-- https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html#min-max-values
+- [Service control policies (SCPs)](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
+- [Quotas and service limits for AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html#min-max-values)
 - [Terraform and OpenTofu registry search](https://library.tf/modules?query=scp)
