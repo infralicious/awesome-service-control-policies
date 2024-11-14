@@ -44,7 +44,11 @@ TODO: add sources
 
 - SCPs do not affect users or roles in the management account. They affect only the member accounts in your organization.
 - 5 policies maximum can be attached to root/ou/account
-- SCPs have a maximum character limit of 5120
+- SCPs have a maximum character limit of 512
+
+## related projects
+
+- https://ramimac.github.io/wiki/scps/
 
 ## references
 
@@ -53,4 +57,4 @@ TODO: add sources
 - [AWS Service Control Policy Examples](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples.html)
 - [Service control policies (SCPs)](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
 - [Quotas and service limits for AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html#min-max-values)
-- [Terraform and OpenTofu registry search](https://library.tf/modules?query=scp)
+- [Terraform and OpenTofu registry search for scp](https://library.tf/modules?query=scp)
