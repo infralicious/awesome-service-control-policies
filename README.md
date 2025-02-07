@@ -42,13 +42,18 @@ Inspired by many other awesome lists!
 
 ## Limits
 
-- SCPs/RCPs do not affect users or roles in the management account. They affect only the member accounts in your organization.
-- SCPs/RCPs have a maximum of 5 policies that can be attached to root/ou/account [^1]
-- SCPs have a maximum character limit of `5120` characters [^1]
+- Policies do not affect users or roles in the management/root account. They affect only the member accounts in your organization.
+- Policies have a maximum of 5 policies that can be attached to root/ou/account. [^1]
+- Policies have a maximum character limit of `5120` characters. [^1]
+- Policies do not affect service linked roles.
+- member accounts cannot query which policies are applied to them [^2]
+- Denied actions show that it was blocked by a service control policy but will not show which one in the error or in cloudtrail. [^2]
+- No audit or evaluation mode for SCPs and other policies. [^2]
 
 ## related projects
 
 - https://ramimac.github.io/wiki/scps/
+- https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#aws-wishlist
 
 ## references
 
@@ -59,3 +64,4 @@ Inspired by many other awesome lists!
 - [Terraform and OpenTofu registry search for scp](https://library.tf/modules?query=scp)
 
 [^1]: [Quotas and service limits for AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html#min-max-values)
+[^2] [SummitRoute's SCP Best Practices AWS Wishlist](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#aws-wishlist)
