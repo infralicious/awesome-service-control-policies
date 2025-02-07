@@ -64,5 +64,4 @@ Inspired by many other awesome lists!
 - [Terraform and OpenTofu registry search for scp](https://library.tf/modules?query=scp)
 
 [^1]: [Quotas and service limits for AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html#min-max-values)
-
-[^2] [SummitRoute's SCP Best Practices AWS Wishlist](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#aws-wishlist)
+[^2]: [SummitRoute's SCP Best Practices AWS Wishlist](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#aws-wishlist)
