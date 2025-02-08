@@ -18,7 +18,7 @@ Inspired by many other awesome lists!
 
 ### IAM helpers
 
-- [aws_iam_policy_document](https://registry.terraform.io/providers/hashicorp/aws/5.63.1/docs/data-sources/iam_policy_document#minified_json) - Useful terraform data source to build a policy and minify it using attribute `minified_json`
+- [aws_iam_policy_document](https://registry.terraform.io/providers/hashicorp/aws/5.63.1/docs/data-sources/iam_policy_document#minified_json) - Useful terraform data source to build a policy and minify it using attribute `minified_json`. For example `data.aws_iam_policy_document.default.minified_json`.
 - [phzietsman/terraform-aws-policy-packer](https://github.com/phzietsman/terraform-aws-policy-packer) - reduce size of IAM policy
 
 ## policy stores
