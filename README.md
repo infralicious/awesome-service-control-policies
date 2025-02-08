@@ -35,6 +35,7 @@ Inspired by many other awesome lists!
 ## blogs
 
 - [AWS security blog tag: service control policies](https://aws.amazon.com/blogs/security/tag/service-control-policies/)
+- [Nov 13 2024 - Introducing resource control policies (RCPs) a new authorization policy](https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/)
 - [Oct 9 2023 - What is AWS SCP (Service Control Policy) and How does it Help with Permissions?](https://www.stormit.cloud/blog/aws-scp-service-control-policy)
 - [Jul 29 2023 - What are AWS Service Control Policies (SCPs)](https://towardsthecloud.com/aws-scp-service-control-policies)
 - [Jun 17 2022 - More about AWS Service Control Policies (SCP)](https://medium.com/gft-engineering/more-about-aws-service-control-policies-scp-1588ff9bc814)
