@@ -1,6 +1,6 @@
-# awesome-service-control-policies
+# Awesome AWS Control Policies
 
-Awesome AWS service control policies (SCPs), resource control policies (RCPs), and organizational policies in general (service control, resource control, declarative, ai opt out, backup, tagging)
+Awesome AWS service control policies (SCPs), resource control policies (RCPs), and organizational policies in general (service control, resource control, declarative, ai opt out, backup, tagging, budgets, etc)
 
 Inspired by many other awesome lists!
 
@@ -23,6 +23,7 @@ Inspired by many other awesome lists!
 
 ## policy stores
 
+- https://www.cloudguardrails.com
 - [primeharbor/aws-service-control-policies](https://github.com/primeharbor/aws-service-control-policies)
 - https://asecure.cloud/l/scp/
 - https://github.com/aws-samples/resource-control-policy-examples
