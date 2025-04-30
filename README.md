@@ -1,4 +1,4 @@
-# Awesome AWS Control Policies
+# Awesome AWS Control Policies and Guard Rails
 
 Awesome AWS service control policies (SCPs), resource control policies (RCPs), and organizational policies in general (service control, resource control, declarative, ai opt out, backup, tagging, budgets, etc)
 
