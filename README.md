@@ -57,6 +57,7 @@ Inspired by many other awesome lists!
 
 - https://ramimac.github.io/wiki/scps/
 - https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#aws-wishlist
+- [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Audit mode for AWS SCPs and RCPs - Analyze your AWS Organization, identify policy violations, and auto-generate enforcement policies that won't disrupt operations.
 
 ## references
 
