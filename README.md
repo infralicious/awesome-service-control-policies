@@ -36,6 +36,7 @@ Inspired by many other awesome lists!
 ## blogs
 
 - [AWS security blog tag: service control policies](https://aws.amazon.com/blogs/security/tag/service-control-policies/)
+- [Sep 19 2025 - Unlock new possibilities: AWS Organizations service control policy now supports full IAM language](https://aws.amazon.com/blogs/security/unlock-new-possibilities-aws-organizations-service-control-policy-now-supports-full-iam-language/)
 - [Dec 1 2024 - Simplify governance with declarative policies](https://aws.amazon.com/blogs/aws/simplify-governance-with-declarative-policies/)
 - [Nov 13 2024 - Introducing resource control policies (RCPs), a new type of authorization policy in AWS Organizations](https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/)
 - [Oct 9 2023 - What is AWS SCP (Service Control Policy) and How does it Help with Permissions?](https://www.stormit.cloud/blog/aws-scp-service-control-policy)
@@ -58,6 +59,14 @@ Inspired by many other awesome lists!
 - https://ramimac.github.io/wiki/scps/
 - https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#aws-wishlist
 - [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Audit mode for AWS SCPs and RCPs - Analyze your AWS Organization, identify policy violations, and auto-generate enforcement policies that won't disrupt operations.
+
+## recent additions (last 6-12 months)
+
+- [aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws) - AWS Solution that automates temporary sandbox accounts with SCP guardrails and spend controls (created May 2025).
+- [security-man/aws-control-policies](https://github.com/security-man/aws-control-policies) - Basic SCP and RCP starter policy set (created May 2025).
+- [OnticX/scp-lint](https://github.com/OnticX/scp-lint) - Linter focused on AWS service control policies (created Jan 2026).
+- [mijndert/aws-scp-catalog](https://github.com/mijndert/aws-scp-catalog) - OpenTofu/Terraform SCP catalog module (created Jan 2026).
+- [infrahouse/terraform-aws-org-governance](https://github.com/infrahouse/terraform-aws-org-governance) - Terraform module for organization governance with SCPs and tag policies (created Mar 2026).
 
 ## references
 
