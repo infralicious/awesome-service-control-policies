@@ -14,11 +14,13 @@ on:
 jobs:
   check-links:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6.0.2
 
       - name: Check links in README
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@v2.8.0
         with:
           args: --verbose --no-progress README.md
