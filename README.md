@@ -15,6 +15,8 @@ Inspired by many other awesome lists!
 - [timurgaleev/terraform-aws-organization-scp](https://github.com/timurgaleev/terraform-aws-organization-scp)
 - [welldone-cloud/aws-scps-for-sandbox-and-training-accounts](https://github.com/welldone-cloud/aws-scps-for-sandbox-and-training-accounts/)
 - [latacora/latacora-service-control-policies](https://github.com/latacora/latacora-service-control-policies/tree/master/policy-groups)
+- [mijndert/aws-scp-catalog](https://github.com/mijndert/aws-scp-catalog) - reusable OpenTofu/Terraform module for managing SCPs
+- [infrahouse/terraform-aws-org-governance](https://github.com/infrahouse/terraform-aws-org-governance) - centralized organization governance with SCPs, tag policies, and delegated admin registration
 
 ### IAM helpers
 
@@ -28,6 +30,7 @@ Inspired by many other awesome lists!
 - https://asecure.cloud/l/scp/
 - https://github.com/aws-samples/resource-control-policy-examples
 - https://github.com/aws-samples/service-control-policy-examples
+- [security-man/aws-control-policies](https://github.com/security-man/aws-control-policies) - basic SCP and RCP starter policy set
 
 ## reference architecture
 
@@ -36,6 +39,7 @@ Inspired by many other awesome lists!
 ## blogs
 
 - [AWS security blog tag: service control policies](https://aws.amazon.com/blogs/security/tag/service-control-policies/)
+- [Sep 19 2025 - Unlock new possibilities: AWS Organizations service control policy now supports full IAM language](https://aws.amazon.com/blogs/security/unlock-new-possibilities-aws-organizations-service-control-policy-now-supports-full-iam-language/)
 - [Dec 1 2024 - Simplify governance with declarative policies](https://aws.amazon.com/blogs/aws/simplify-governance-with-declarative-policies/)
 - [Nov 13 2024 - Introducing resource control policies (RCPs), a new type of authorization policy in AWS Organizations](https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/)
 - [Oct 9 2023 - What is AWS SCP (Service Control Policy) and How does it Help with Permissions?](https://www.stormit.cloud/blog/aws-scp-service-control-policy)
@@ -58,6 +62,8 @@ Inspired by many other awesome lists!
 - https://ramimac.github.io/wiki/scps/
 - https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#aws-wishlist
 - [discocrayon/Headroom](https://github.com/discocrayon/Headroom) - Audit mode for AWS SCPs and RCPs - Analyze your AWS Organization, identify policy violations, and auto-generate enforcement policies that won't disrupt operations.
+- [aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws) - automates temporary sandbox accounts with SCP guardrails and spend controls
+- [OnticX/scp-lint](https://github.com/OnticX/scp-lint) - linter for AWS service control policies
 
 ## references
 
