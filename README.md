@@ -46,8 +46,8 @@ Inspired by many other awesome lists!
 ## Limits
 
 - SCPs do not affect users or roles in the management account. They affect member accounts in the organization. [^1]
-- You can directly attach up to 5 SCPs to a root, OU, or account. [^2]
-- SCPs have a maximum character limit of `5120` characters. [^2]
+- You can directly attach up to 10 SCPs to a root, OU, or account. [^2]
+- SCPs have a maximum character limit of `10240` characters. [^2]
 - SCPs do not affect service-linked roles. [^1]
 - By default, policy visibility and `ListPoliciesForTarget` operations are managed from the management account with Organizations permissions. [^3]
 - Access denied errors indicate an explicit SCP deny, but the error does not identify the exact SCP document; use SCP troubleshooting steps to trace the blocking statement. [^4]
